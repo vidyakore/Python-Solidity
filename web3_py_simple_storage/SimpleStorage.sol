@@ -4,7 +4,7 @@ pragma solidity ^0.6.0;
 contract first {
 
     uint256 public f;
-    //this will initialize to 0 
+    //this will initialize to 0 od
 
     struct People {
         uint256 fNo;
